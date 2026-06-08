@@ -1,0 +1,3 @@
+a) Congrats! You have opened gate A!
+b) Congrats! You have opened gate B!
+c) Congrats! You have opened gate C!

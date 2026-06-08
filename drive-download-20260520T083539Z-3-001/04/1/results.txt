@@ -1,0 +1,30 @@
+a) Number of trailing zeros is 5
+b) String is iloveassembly
+c) Size of the endianess structure is 16 bytes (128 bits)
+d)
+Little-endian is: 10010110
+Big-endian is: 01101001
+Little-endian is: 00110110
+Big-endian is: 01101100
+Little-endian is: 11110110
+Big-endian is: 01101111
+Little-endian is: 01101110
+Big-endian is: 01110110
+Little-endian is: 10100110
+Big-endian is: 01100101
+Little-endian is: 10000110
+Big-endian is: 01100001
+Little-endian is: 11001110
+Big-endian is: 01110011
+Little-endian is: 11001110
+Big-endian is: 01110011
+Little-endian is: 10100110
+Big-endian is: 01100101
+Little-endian is: 10110110
+Big-endian is: 01101101
+Little-endian is: 01000110
+Big-endian is: 01100010
+Little-endian is: 00110110
+Big-endian is: 01101100
+Little-endian is: 10011110
+Big-endian is: 01111001

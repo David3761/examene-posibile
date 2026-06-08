@@ -1,0 +1,13 @@
+a)
+number: aabbccdd
+mask: ffff0000
+maskedn: aabb0000
+negate: 55443322
+b)
+No of elements: 4
+c)
+Before transformation: IOCLA Rullz!
+After transformation: NTHQFLW[RRAM
+d)
+2 is not a multiple of 42.
+<valoarea de retur a lui file este 42>

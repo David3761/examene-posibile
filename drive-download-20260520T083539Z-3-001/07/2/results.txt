@@ -1,0 +1,21 @@
+a.
+
+arr = 50, 70, 30, 10, 20
+len = 5
+cap = 5
+
+b.
+
+arr = rand1, rand2
+len = 2
+cap = 2
+
+c.
+
+arr = 50, 70, 30, 10, 20
+len = 5
+cap = 8
+
+d.
+
+180

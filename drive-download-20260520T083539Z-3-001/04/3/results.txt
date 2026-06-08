@@ -1,0 +1,3 @@
+a) Funcția trebuie să printeze mesajul "Hello from msg.o!".
+b) Aflați parola pentru care programul afișează "Parola corecta! Acces permis.".
+c) Programul trebuie să printeze mesajul "Felicitari! Ai castigat!".

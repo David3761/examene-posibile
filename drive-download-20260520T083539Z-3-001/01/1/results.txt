@@ -1,0 +1,7 @@
+a) FLAG
+
+b) echo $? must print 55
+
+c) The number is not heavy
+
+d) ff011234 8ab11234 ffffffff a781aa10 cccccccc

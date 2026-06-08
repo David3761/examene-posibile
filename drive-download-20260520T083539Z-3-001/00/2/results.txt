@@ -1,0 +1,12 @@
+a)
+String is: I <3 IOCLA!
+String len is: 11
+
+b)
+Biblioteca, nu librarie!
+
+c)
+Character i appears 4 times
+
+d)
+nO oNe CaN ChAnGe Me!!!

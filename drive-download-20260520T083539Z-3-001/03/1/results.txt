@@ -1,0 +1,4 @@
+a) The number 25 is perfect
+b) The array is pure
+c) The address is magic
+d) 16
